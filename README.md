@@ -40,15 +40,6 @@ cd amazon-clone
 
 Simply double-click `index.html`, or open it directly in any web browser — no build tools or dependencies required.
 
-## 📂 Project Structure
-
-```
-amazon-clone/
-├── index.html
-├── style.css
-└── README.md
-```
-
 ## 🙋 Author
 
 **Biswajit Biswal**
